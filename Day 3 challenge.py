@@ -9,7 +9,7 @@ window.title("Registration page")
 window.geometry("900x700")
 window.configure(background="lightgreen")
 
-#below five fields are declared
+#below eleven fields are declared
 label1 = Label(window, text="Employee Registration Form", font=("bold", 18)).grid(row=0, column=1)
 Firstname = Label(window, text = "First Name", width=15, font=("bold", 15)).grid(row=2, column=0)
 Lastname = Label(window, text = "Last Name", width=15, font=("bold", 15)).grid(row=3, column=0)
@@ -23,6 +23,7 @@ var = IntVar()
 Radiobutton(window, text="Male", padx = 30, variable=var, value=1).grid(row=7, column=1)
 Radiobutton(window, text="Female", padx = 20, variable=var, value=2).grid(row=7, column=2)
 Radiobutton(window, text="Others", padx = 10, variable=var, value=3).grid(row=7, column=3)
+
 dob = Label(window, text="Date of Birth", width=15, font=("bold", 15)).grid(row=8, column=0)
 worklocat = Label(window, text="Work Location", width=15, font=("bold", 15)).grid(row=9, column=0)
 
