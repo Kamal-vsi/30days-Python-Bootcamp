@@ -1,0 +1,88 @@
+[12, 22, 32, 42, 52]
+
+54321
+
+4321
+
+321
+
+21
+
+1
+
+enter the value: 15
+
+377
+
+Enter the value to get fibonacci series:15
+
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 
+
+Enter the number:153
+
+The given number is armstrong number
+
+9 x 1 = 9
+
+9 x 2 = 18
+
+9 x 3 = 27
+
+9 x 4 = 36
+
+9 x 5 = 45
+
+9 x 6 = 54
+
+9 x 7 = 63
+
+9 x 8 = 72
+
+9 x 9 = 81
+
+9 x 10 = 90
+
+9 x 11 = 99
+
+9 x 12 = 108
+
+9 x 13 = 117
+
+9 x 14 = 126
+
+9 x 15 = 135
+
+9 x 16 = 144
+
+10 is positive
+
+-20 is negative
+
+30 is positive
+
+40 is positive
+
+-50 is negative
+
+-2567 is negative
+
+enter the no.of days:3456
+
+The age is: 9
+
+Enter the trignometric term: tan
+
+Enter the angle in deg:45
+
+1.6197751905438615
+
+Enter the first number:564
+
+Enter the operation to be done: + for addition, - for subtraction, * for multiplication, / for division, // for floor divison(to get quotient), % for modulo(to get remainder), ** for exponential:-
+
+Enter the second number:335
+
+the answer is 229
+
+
+
