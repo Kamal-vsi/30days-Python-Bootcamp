@@ -1,0 +1,18 @@
+hello, welcome to cash deposit and withdrawal machine
+
+your current balance is: 0.0
+
+hello, welcome to cash deposit and withdrawal machine
+
+Enter amount to be deposit: 2000
+
+Your amount 2000.0 is successfully deposited in your account
+
+hello, welcome to cash deposit and withdrawal machine
+
+enter the amount want to be withdraw:3000
+
+balance insufficient, please check your account balance
+
+
+
