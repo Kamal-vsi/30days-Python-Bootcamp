@@ -1,0 +1,39 @@
+C:\Users\ELCOT-Lenovo\AppData\Local\Programs\Python\Python39\python.exe "C:/Users/ELCOT-Lenovo/Desktop/python challenges/Day17 challenge.py"
+<mysql.connector.connection.MySQLConnection object at 0x000002284E944190>
+DBMS version : ('8.0.25',)
+('amitdb',)
+('information_schema',)
+('mydatabase',)
+('mydatabase1',)
+('mydatabase12',)
+('mydatabase123',)
+('mydatabase1234',)
+('mydatabase12345',)
+('mysql',)
+('performance_schema',)
+('sys',)
+('customers',)
+('office',)
+('student',)
+1 Record inserted.
+1 Record inserted.
+1 Record inserted.
+5 Was inserted.
+(1, 'bharathi', 'sanathi street 04')
+(2, 'saroja', 'balu street 05')
+(3, 'pattu', 'anna street 98')
+(4, 'sangavi', 'silicon valley 87')
+(5, 'devi', 'cheety street 56')
+(123, 'kamal', 'Vandavasi 408')
+(124, 'kannan', 'Vandavasi 508')
+(125, 'sriram', 'Vandavasi 608')
+('bharathi',)
+('saroja',)
+('pattu',)
+('sangavi',)
+('devi',)
+('kamal',)
+('kannan',)
+('sriram',)
+
+Process finished with exit code 0
